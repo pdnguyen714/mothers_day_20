@@ -1,0 +1,14 @@
+* {
+    font-family: 'Yeseva One', cursive;
+  }
+
+body {
+    background-image: url('../css/images/bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.card {
+    border-radius: 5px;
+}
